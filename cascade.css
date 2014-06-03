@@ -1,0 +1,38 @@
+body {
+		background-color: grey;
+		text-align:center;
+		color:white;
+		font-family: Courier;
+		font-size: 22px;
+}
+p {
+		
+		
+		
+}
+
+a {
+	text-decoration: none;
+	text-color: white;
+}
+h5 {
+	font-size: 24px;
+}
+h4 {
+	font-size: 28px;
+	font-family: Courier;
+	text-align: center;
+}
+h3{
+}
+div{
+    height:200px;
+    width:180px;
+    border:4px solid black;
+    margin:10px;
+    float:left;
+}
+li {
+	list-style-type:none;
+}
+
